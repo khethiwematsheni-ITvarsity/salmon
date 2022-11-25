@@ -71,6 +71,8 @@ h2{
 .banner-img{
     background-image: url('image/IMG-20221118-WA0003.jpg');
     -webkit-background-size: cover;
+    background-size: no-repeat;
+    background-position: center;
     height: 100%;
     filter: blur(2px);
 }
